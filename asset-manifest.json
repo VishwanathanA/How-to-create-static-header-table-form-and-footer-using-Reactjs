@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/VishwanathanA/How-to-create-static-header-table-form-and-footer-using-Reactjs.git/static/css/main.a12724ad.css",
+    "main.js": "/VishwanathanA/How-to-create-static-header-table-form-and-footer-using-Reactjs.git/static/js/main.745d955a.js",
+    "index.html": "/VishwanathanA/How-to-create-static-header-table-form-and-footer-using-Reactjs.git/index.html",
+    "main.a12724ad.css.map": "/VishwanathanA/How-to-create-static-header-table-form-and-footer-using-Reactjs.git/static/css/main.a12724ad.css.map",
+    "main.745d955a.js.map": "/VishwanathanA/How-to-create-static-header-table-form-and-footer-using-Reactjs.git/static/js/main.745d955a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a12724ad.css",
+    "static/js/main.745d955a.js"
+  ]
+}
